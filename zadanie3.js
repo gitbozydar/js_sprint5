@@ -20,6 +20,12 @@ const people = [
     nickname: "Ramlam",
     age: 17,
   },
+  {
+    firstName: "Mirosław",
+    lastName: "Broda",
+    nickname: "Wałado",
+    age: 13,
+  },
 ];
 //     a) Do każdego obiektu dodaj funkcję introduceYourself, która za pomocą słówka this wyświetli w konsoli tekst powitalny.
 const introduceYourself = (array) => {
